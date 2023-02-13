@@ -1,2 +1,2 @@
-# Portfolio_Noroff
+# Noroff Portfolio
 Portfolio
