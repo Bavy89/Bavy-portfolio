@@ -28,6 +28,9 @@ nav a {
     padding: 14px 16px;
     text-decoration: none;
 }
+nav a.selected {
+  text-decoration: underline;
+}
 nav a:hover {
     background-color: #ddd;
     color: #333;
