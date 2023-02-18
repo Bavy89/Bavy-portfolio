@@ -55,8 +55,10 @@ Here you can detail any information you want to provide regarding contributing t
 
 If you need to reach me, feel free to drop me a message on any of these platforms:
 
-Email: [insert email address here]
-LinkedIn: [insert LinkedIn profile URL here]
+- Email:
+- LinkedIn:
+- Discord
+
 
 ## License
 
