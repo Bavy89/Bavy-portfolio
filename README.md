@@ -9,9 +9,9 @@ Add a more detailed description of what your project entails and set out to do.
 
 You can add some bullet points if you'd like to:
 
-- List item 1
-- List item 2
-- List item 3
+- Cross-course project: - [RainyDays](https://elated-poitras-26e452.netlify.app/index.html)
+- Semester project 1:
+- Project Exam 1:
 
 ## Built With
 
