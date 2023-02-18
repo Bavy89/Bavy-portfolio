@@ -1,0 +1,3 @@
+# My portfolio
+
+Welcome to my portfolio! This is a showcase of my skills, experiences, and achievements in the field of Front End Developer. My portfolio is a representation of my hard work and dedication, highlighting the projects I have completed and the challenges I have overcome. This portfolio is a testament to my passion for Front End and my drive to constantly improve and grow as a professional. Whether you are a potential employer or just interested in learning more about me, I hope that you will find this portfolio informative and reflective of my abilities and character. Thank you for taking the time to review my work.
