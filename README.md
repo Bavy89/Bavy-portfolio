@@ -26,6 +26,6 @@ Hi, if you need to reach me, feel free to drop me a message on any of these plat
 - Discord [Bavy Ado Discord](https://discord.com/users/<820696686832779284>)
 
 
-## Acknowledgments
+## Tools
 
-- Images [Unsplash](https://unsplash.com/)
+- Visuals studio code
