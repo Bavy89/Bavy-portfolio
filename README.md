@@ -21,9 +21,9 @@ Here is some of my projects so far:
 
 Hi, if you need to reach me, feel free to drop me a message on any of these platforms:
 
-- Email:
-- LinkedIn: [Bavy Ado](https://linkedin.com/in/bavy-ado-877912114)
-- Discord
+- Email: bavy_ke@hotmail.com
+- LinkedIn: [Bavy Ado LinkedIn](https://linkedin.com/in/bavy-ado-877912114)
+- Discord [Bavy Ado Discord](https://discord.com/users/<820696686832779284>)
 
 
 ## Acknowledgments
