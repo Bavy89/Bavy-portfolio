@@ -28,4 +28,4 @@ Hi, if you need to reach me, feel free to drop me a message on any of these plat
 
 ## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
+- Images [Unsplash](https://unsplash.com/)
