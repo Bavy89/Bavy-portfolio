@@ -29,7 +29,8 @@ nav a {
     text-decoration: none;
 }
 nav a.selected {
-  text-decoration: underline;
+  background-color: #ddd;
+  color: #333;
 }
 nav a:hover {
     background-color: #ddd;
