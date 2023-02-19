@@ -8,7 +8,7 @@ Welcome to my portfolio! This is a showcase of my skills, experiences, and achie
 Here is some of my projects so far:
 - Cross-course project website: [RainyDays](https://elated-poitras-26e452.netlify.app/index.html) Github [RainyDays](https://github.com/Bavy89/HTML-CSS-CA-Assignment_Bavy-Rainydays.git)
 
-- Semester project 1 website: [Museum Website](https://trusting-borg-d28da2.netlify.app/) Github [Museum](https://github.com/Bavy89/Semester-project-1_Bavy-Ado.git)
+- Semester project 1 website: [Museum](https://trusting-borg-d28da2.netlify.app/) Github [Museum](https://github.com/Bavy89/Semester-project-1_Bavy-Ado.git)
 
 - Project Exam 1: [Blog](https://grand-horse-ca0eca.netlify.app/index.html)
 
