@@ -10,7 +10,7 @@ Here is some of my projects so far:
 
 - Semester project 1 website: [Museum](https://trusting-borg-d28da2.netlify.app/) Github [Museum](https://github.com/Bavy89/Semester-project-1_Bavy-Ado.git)
 
-- Project Exam 1: [Blog](https://grand-horse-ca0eca.netlify.app/index.html)
+- Project Exam 1: [Blog](https://grand-horse-ca0eca.netlify.app/index.html) Github [Blog]([https://github.com/Bavy89/Semester-project-1_Bavy-Ado.git](https://github.com/Bavy89/projectexamblog.git))
 
 ## Built With
 
