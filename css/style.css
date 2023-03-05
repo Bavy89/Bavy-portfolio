@@ -82,6 +82,16 @@ footer p {
   font-size: 14px;
 }
 
+.centered-header {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.centered-header h1 {
+  margin-bottom: 20px;
+}
+
+
 .contact-form {
   display: flex;
   flex-direction: column;
