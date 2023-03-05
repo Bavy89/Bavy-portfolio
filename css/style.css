@@ -89,6 +89,10 @@ footer p {
 }
 .centered-header h1 {
   margin-bottom: 20px;
+  font-size: 2.3em;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
 }
 
 
