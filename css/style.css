@@ -88,6 +88,8 @@ footer p {
   max-width: 500px;
   margin: auto;
   padding: 8px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .contact-form label {
