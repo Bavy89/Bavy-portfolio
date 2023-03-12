@@ -64,7 +64,7 @@ section h1 {
 }
 
 .column img:hover {
-  transform: scale(1.1) rotate(2deg);
+  transform: scale(1.1);
 }
 
 .column img {
